@@ -1,0 +1,1 @@
+print("nan than vivek - sollikudukarthu kabilan")
